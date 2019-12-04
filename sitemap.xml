@@ -19,11 +19,11 @@
   </url>
   
   <url>
-    <loc>/facilities/facilities/</loc>
+    <loc>/rooms/fundy_view_room/</loc>
   </url>
   
   <url>
-    <loc>/rooms/fundy_view_room/</loc>
+    <loc>/terms/</loc>
   </url>
   
   <url>
@@ -31,19 +31,7 @@
   </url>
   
   <url>
-    <loc>/history/history/</loc>
-  </url>
-  
-  <url>
-    <loc>/terms/terms/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
   </url>
   
   <url>

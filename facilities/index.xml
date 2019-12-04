@@ -10,17 +10,5 @@
 	<atom:link href="/facilities/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Facilities</title>
-      <link>/facilities/facilities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/facilities/facilities/</guid>
-      <description>Breakfast
-Breakfast is served Buffet Style each morning between 7.30am and 9.30am. Earlier times can be arranged upon request. Each morning you will be treated to fresh fruit, cereals, breads, pastries, preserves and yoghurts served with your choice of tea or coffee and chilled juices. If you have any food allergies or special dietary needs, please let us know in advance.
-Room Service
-We want you to feel comfortable so if you would like toast, tea, coffee or juice in the evening, feel free to ask.</description>
-    </item>
-    
   </channel>
 </rss>
