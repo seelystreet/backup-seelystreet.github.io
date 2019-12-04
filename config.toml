@@ -10,14 +10,25 @@ title = "Seely Street Bed and Breakfast"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Contact"
-    url = "/Contact/"
-    weight = 5
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 2
 [[menu.main]]
     name = "Rooms"
     url = "/rooms/"
-    weight = 2
-
+    weight = 3
+[[menu.main]]
+    name = "Facilities"
+    url = "/facilities/"
+    weight = 4
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 5
+[[menu.main]]
+    name = "T&C's"
+    url = "/hello/"
+    weight = 7
 [params]
     description = "Seely Street Bed and Breakfast"
     footer = "&copy; [Seely Street Bed & Breakfast](https://seelystreet.github.io) 2019 -- 2020"

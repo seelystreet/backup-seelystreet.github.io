@@ -1,7 +1,5 @@
 ---
 title: History
-menu: main
-weight: 8
 ---
 
 We are so proud of our house and we believe it dates back at least to 1902 and the Rev Joseph Smith of the Church of England. We understand that either the Rev Smith or the Church built several houses on Seely Street. Based on records from Saint John City Library we have been able to compile the following list of previous owners of our wonderful B&B.

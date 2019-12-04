@@ -1,7 +1,5 @@
 ---
 title: Facilities
-menu: main
-weight: 7
 ---
 
 **Breakfast**  
