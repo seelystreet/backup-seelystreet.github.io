@@ -3,29 +3,42 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Categories | A minimal Hugo website</title>
+    <title>Categories | Seely Street Bed and Breakfast</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-  </head>
 
+  </head>
   <body>
-    <nav>
-    <ul class="menu">
+<div class="topnav" id="myTopnav">
+  
+  <a href="/">Welcome</a>
       
-      <li><a href="/">Home</a></li>
+  <a href="/rooms/">Rooms</a>
       
-      <li><a href="/about/">About</a></li>
+  <a href="/contact/">Contact</a>
       
-      <li><a href="/categories/">Categories</a></li>
+  <a href="/facilities/facilities/">Facilities</a>
       
-      <li><a href="/tags/">Tags</a></li>
+  <a href="/history/history/">History</a>
       
-      <li><a href="/index.xml">Subscribe</a></li>
+  <a href="/terms/terms/">T&amp;C&#39;s</a>
       
-    </ul>
-    <hr/>
-    </nav>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
 
 
 <h1>Categories</h1>
@@ -38,7 +51,7 @@
   
   
   <hr/>
-  &copy; <a href="https://yihui.name">Yihui Xie</a> 2017 &ndash; 2019 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  &copy; <a href="https://seelystreet.github.io">Seely Street Bed &amp; Breakfast</a> 2019 &ndash; 2020
   
   </footer>
   </body>

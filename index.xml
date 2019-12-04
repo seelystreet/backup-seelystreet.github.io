@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A minimal Hugo website</title>
+    <title>Welcome on Seely Street Bed and Breakfast</title>
     <link>/</link>
-    <description>Recent content on A minimal Hugo website</description>
+    <description>Recent content in Welcome on Seely Street Bed and Breakfast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facilities</title>
+      <link>/facilities/facilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/facilities/facilities/</guid>
+      <description>Breakfast
+Breakfast is served Buffet Style each morning between 7.30am and 9.30am. Earlier times can be arranged upon request. Each morning you will be treated to fresh fruit, cereals, breads, pastries, preserves and yoghurts served with your choice of tea or coffee and chilled juices. If you have any food allergies or special dietary needs, please let us know in advance.
+Room Service
+We want you to feel comfortable so if you would like toast, tea, coffee or juice in the evening, feel free to ask.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/history/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/history/history/</guid>
+      <description>We are so proud of our house and we believe it dates back at least to 1902 and the Rev Joseph Smith of the Church of England. We understand that either the Rev Smith or the Church built several houses on Seely Street. Based on records from Saint John City Library we have been able to compile the following list of previous owners of our wonderful B&amp;amp;B.
+December 2006 – to present Garth &amp;amp; Helena Millar moved from England and converted the house to a Bed &amp;amp; Breakfast graded to a 3.</description>
+    </item>
+    
+    <item>
+      <title>Fundy View Room</title>
+      <link>/rooms/fundy_view_room/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rooms/fundy_view_room/</guid>
+      <description>Fundy View Room
+We just love this room and this is our most popular room with our repeat visitors. The Fundy View room is spacious with vibrant colours creating a warm relaxing sexy atmosphere, ideal for a romantic break or a long weekend away from the hustle and bustle of life. Welcome to our new feature room with lovely views over Seely Street and looking towards the Bay of Fundy with Mispec and Red Head in the distance.</description>
+    </item>
+    
+    <item>
+      <title>T&amp;C&#39;s</title>
+      <link>/terms/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/terms/terms/</guid>
+      <description>The Important Small Print
+Room Prices
+* All prices quoted are per room per night. * Rates posted are valid unil December 2018. * All rates include Breakfast served each morning between 08.00am and 09.00am. * All rates subject to change without notice.
+Minimum Stay
+* There is a minimum stay of 2 nights on Holiday Weekends.
+Reservations
+* All reservations must be guaranteed with a Credit Card, in the guests name.</description>
+    </item>
+    
+    <item>
+      <title>The Deer View Room</title>
+      <link>/rooms/deer_view_room/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rooms/deer_view_room/</guid>
+      <description>The Deer View Room
+Many times we have watched the deer in our rear gardens from this room as they wander between the houses on their way from Rockwood Park. This large bedroom room in the middle of the house offers a Private Bathroom and a walk-in closet with a Queen Sleigh Bed. There is a large dresser and mirror and a great old fireplace. We think of this room as one in which to relax and unwind.</description>
+    </item>
+    
+    <item>
+      <title>The Seely Suite</title>
+      <link>/rooms/seely_suite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rooms/seely_suite/</guid>
+      <description>The Seely Suite
+Tucked away at the rear of our house is our Private Suite with bedroom with Queen Bed, separate sitting room and en-suite bathroom. This is a great room for long stays as you have the comfort of a living area as well as privacy due to its location in the house. We have a Sofa Bed in this room so that we can accommodate a family of 4 or 4 adults in 2 double beds.</description>
+    </item>
     
   </channel>
 </rss>
