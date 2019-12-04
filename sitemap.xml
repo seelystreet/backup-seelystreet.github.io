@@ -3,14 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/facilities/facilities/</loc>
-  </url>
-  
-  <url>
-    <loc>/history/history/</loc>
-  </url>
-  
-  <url>
     <loc>/rooms/</loc>
   </url>
   
@@ -27,11 +19,19 @@
   </url>
   
   <url>
+    <loc>/facilities/facilities/</loc>
+  </url>
+  
+  <url>
     <loc>/rooms/fundy_view_room/</loc>
   </url>
   
   <url>
     <loc>/history/</loc>
+  </url>
+  
+  <url>
+    <loc>/history/history/</loc>
   </url>
   
   <url>
