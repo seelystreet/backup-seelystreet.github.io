@@ -26,12 +26,13 @@ Our B&B is in a wonderful location just 200 metres from Saint John Public Garden
 
 We hope you enjoy our website and look forward to welcoming you in the near future.
 
-For Reservations or to check availability please call (506) 214 1085 / (506) 721 1553 or e-mail: garth@seelystreet.com
+For Reservations or to check availability :-  
+<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553  
+<i data-feather="mail"></i> <garth@seelystreet.com>
 
 Please also check out our other Websites - [Fundy Sports Toursim](http://fundysportstourism.com)
 
 **Business Meetings**
 
 If you need a venue for a small business meeting of up to 12 people why not host the meeting in our B&B. We have a spacious room where we can comfortably seat 12 people with desk space and free off road car parking. We will provide tea/coffee & soft drinks as well as snacks and biscuits. Experience real personal service for your business meetings at Seely Street B&B. Please call us on (506) 214 1085 for details of prices. Package your meeting with an overnight stay and we will offer a $10.00 discount on our advertised room rates.
-
 

@@ -19,7 +19,10 @@ Tucked away at the rear of our house is our Private Suite with bedroom with Quee
 Room Rate – $120.00 plus tax at 15% based on 2 sharing.  
 $10.00 supplement per extra adult or child.
 
-For Reservations or to Check Availability please call (506) 214 1085 or e-mail – garth@seelystreet.com  
-
+For Reservations or to Check Availability  
+<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+ 
+<i data-feather="mail"></i> <garth@seelystreet.com>
+ 
 All Rooms are Non-Smoking.  
 Free Off Road Parking

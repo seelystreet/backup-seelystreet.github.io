@@ -18,10 +18,11 @@ We just love this room and this is our most popular room with our repeat visitor
 
 ![Fundy View Room](/img/fundy3.jpg)**Fundy View Room**
 
-
-All Rooms are Non-Smoking.
-Free Off Road Parking
-
-Room Rate – $130.00 plus tax at 15%
-
-For Reservations or to Check Availability please call (506) 214 1085 or e-mail – garth@seelystreet.com
+Room Rate – $130.00 plus tax at 15%  
+For Reservations or to Check Availability  
+ <i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+ 
+ <i data-feather="mail"></i> <garth@seelystreet.com>
+ 
+ All Rooms are Non-Smoking.  
+ Free Off Road Parking

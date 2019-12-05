@@ -51,4 +51,8 @@ All older children or adults are charged CAD 10 per person per night when using 
 * The maximum number of children’s cots/cribs in a room is 1.
 * There is no capacity for extra beds in the room.
 
-Thank you for adhering to our policies. We have a commitment to our guests to expect very high standards in a well kept and safe environment. We look forward to hosting you and making you feel at home in a relaxed atmosphere. Once you have browsed through our pages please call us on (506) 214 1085 or e-mail garth@seelystreet.com to make a reservation.
+Thank you for adhering to our policies. We have a commitment to our guests to expect very high standards in a well kept and safe environment. We look forward to hosting you and making you feel at home in a relaxed atmosphere. Once you have browsed through our pages to make a reservation.
+
+<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+
+<i data-feather="mail"></i> <garth@seelystreet.com> 

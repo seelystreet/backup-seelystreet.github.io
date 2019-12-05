@@ -111,3 +111,14 @@ img { max-width:98%; /* max-width:128%; */
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Feather Icon Settings */
+.feather {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}

@@ -4,7 +4,6 @@ title: History
 
 We are so proud of our house and we believe it dates back at least to 1902 and the Rev Joseph Smith of the Church of England. We understand that either the Rev Smith or the Church built several houses on Seely Street. Based on records from Saint John City Library we have been able to compile the following list of previous owners of our wonderful B&B.
 
- 
 December 2006 – to present
 Garth & Helena Millar moved from England and converted the house to a Bed & Breakfast graded to a 3.5 star standard by Canada Select.
 
