@@ -26,3 +26,4 @@ For Reservations or to Check Availability
 
 All Rooms are Non-Smoking.  
 Free Off Road Parking
+
