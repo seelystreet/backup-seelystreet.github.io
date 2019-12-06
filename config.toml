@@ -9,9 +9,13 @@ title = "Seely Street Bed and Breakfast"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "Rooms"
+    url = "/rooms/"
+    weight = 2
+[[menu.main]]
     name = "Contact Us"
     url = "/contact/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Facilities"
     url = "/facilities/"
@@ -23,22 +27,7 @@ title = "Seely Street Bed and Breakfast"
 [[menu.main]]
     name = "T&C's"
     url = "/hello/"
-    weight = 7
-[[menu.main]]
-    name = "Rooms"
-    url = "/rooms/"
     weight = 6
-[[menu.main]]
-    name = "Fundy" # Drop-down menu entry
-    url = "/rooms/fundy/"
-    weight = 8
-    parent = "Rooms" # Entry in main menu
-[[menu.main]]
-    name = "Seely" # Menu entry in dropdown menu
-    url = "/rooms/seely/"
-    weight = 9
-    parent = "Rooms" # Entry in main menu
-
 
 [params]
     description = "Seely Street Bed and Breakfast"
