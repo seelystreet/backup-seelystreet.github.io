@@ -18,7 +18,11 @@ title: T&C's
 * Upon arrival Credit Card must be presented.
 * Cheques are only accepted 10 days before arrival.
 * A 50% deposit is required for Multiple Room Reservations.
-**Please call (506) 214 1085 for reservations or e-mail garth@seelystreet.com.**
+
+**For reservations**  
+<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+
+<i data-feather="mail"></i> <garth@seelystreet.com> 
 
 **Cancellation Policy**
 * 48 hours notice is required to cancel a reservation without charge.
