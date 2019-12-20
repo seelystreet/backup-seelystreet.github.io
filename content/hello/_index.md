@@ -6,7 +6,7 @@ title: T&C's
 
 **Room Prices**
 * All prices quoted are per room per night.
-* Rates posted are valid unil December 2018.
+* Rates posted are valid unil December 2020.
 * All rates include Breakfast served each morning between 08.00am and 09.00am.
 * All rates subject to change without notice.
 

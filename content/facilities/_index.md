@@ -36,9 +36,6 @@ If you need a venue for a small business meeting of up to 12 people why not host
 **Tour Guide Services**  
 Make the most of your time in Saint John with a tour of Canada's most Irish city. We can offer a gentle paced Walking Tour of Uptown Saint John taking in all the major attractions including the City Market, King Square and Loyalist Burial Ground.  If you have a rental car we can offer a City Tour of a minimum of 2 hours taking in the Reverisng River Falls, Rockwood Park, Fort Howe and maybe one of two favourite places of mine. Stops will be made along the way for photo opportunities. Please see our Day Excursions page for details of prices.
 
-**Private Tours**  
-Leave your car at home and fly to Saint John or train to Moncton. We offer a very personal tour for you and your family and friends. We will collect you from Saint John Airport and drive you to our B&B for the duration of your stay. We will provide a tour to show you all the main attractions in the area which could include, St Andrews, with the possibility of Whale Watching, a City Highlights Tour of Saint John, Kingsbrea Gardens, St Martins Caves and Chowder at the Cave restaurant and many many more. For more information on pricing or to book please call Garth on (506) 214 1085.
-
 **Attractions close to our B&B**  
 
 **Within walking distance of:**

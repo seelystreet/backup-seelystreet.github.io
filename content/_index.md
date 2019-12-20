@@ -6,7 +6,7 @@ title: Welcome
 
 ![our house](welcome.jpg)**We are delighted that our home has been selected for inclusion in the Canadian Register of Historic Places**
 
-2019 is our 11th year of operating our Bed & Breakfast and we have enjoyed hosting families and couples from as far away as Australia, Argentina and Europe and we are excited and looking forward to welcoming you to our home in Saint John.
+2020 is our 12th year of operating our Bed & Breakfast and we have enjoyed hosting families and couples from as far away as Australia, Argentina and Europe and we are excited and looking forward to welcoming you to our home in Saint John.
 
 We are located a very short walk from the spectacular 2200 acre Rockwood Park and the beautiful Lily Lake which now boasts Lilys Cafe a restaurant overlooking the lake serving great food and drinks. Lily Lake has just had solar powered lighting installed making for a very pleasant stroll during the evening at dusk.
 
