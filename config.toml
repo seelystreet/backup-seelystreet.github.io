@@ -7,6 +7,7 @@ title = "Seely Street Bed and Breakfast"
 [[menu.main]]
     name = "Welcome"
     url = "/"
+    pre ="home"
     weight = 1
 [[menu.main]]
     name = "Rooms"
