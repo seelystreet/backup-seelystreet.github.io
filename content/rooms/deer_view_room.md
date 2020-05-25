@@ -17,7 +17,11 @@ Many times we have watched the deer in our rear gardens from this room as they w
 
 ![The Deer View Room](/img/deer3.jpg)**The Deer View Room**
 
-Room Rate: $110.00 plus tax at 15%
+![The Deer View Room](/img/deer-view-bathroom.320x427.jpg)**The Deer View Room**
+
+![The Deer View Room](/img/deer-view-bathroom2.320x427.jpg)**The Deer View Room**
+
+Room Rate: $110.00 plus tax at 15% plus 3.5% Municipal Accommodation Levy.
 
 For Reservations or to Check Availability  
 <i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553

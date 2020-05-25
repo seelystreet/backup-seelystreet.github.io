@@ -2,9 +2,13 @@
 title: Welcome
 ---
 
+![our house](/img/welcome.320x427.jpg)
+
 #### Welcome to our Bed & Breakfast in the wonderful city of Saint John. ####
 
-![our house](welcome.jpg)**We are delighted that our home has been selected for inclusion in the Canadian Register of Historic Places**
+![our house](/img/house.jpg)**We are delighted that our home has been selected for inclusion in the Canadian Register of Historic Places**
+
+![our house](/img/garden-sign.320x427.jpg)
 
 2020 is our 12th year of operating our Bed & Breakfast and we have enjoyed hosting families and couples from as far away as Australia, Argentina and Europe and we are excited and looking forward to welcoming you to our home in Saint John.
 
@@ -31,8 +35,3 @@ For Reservations or to check availability :-
 <i data-feather="mail"></i> <garth@seelystreet.com>
 
 Please also check out our other Websites - [Fundy Sports Toursim](http://fundysportstourism.com)
-
-**Business Meetings**
-
-If you need a venue for a small business meeting of up to 12 people why not host the meeting in our B&B. We have a spacious room where we can comfortably seat 12 people with desk space and free off road car parking. We will provide tea/coffee & soft drinks as well as snacks and biscuits. Experience real personal service for your business meetings at Seely Street B&B. Please call us on (506) 214 1085 for details of prices. Package your meeting with an overnight stay and we will offer a $10.00 discount on our advertised room rates.
-

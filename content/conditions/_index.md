@@ -1,6 +1,20 @@
 ---
-title: T&C's
+title: Terms and Conditions
 ---
+
+**Covid-19 & Hygene**
+
+We pride ourselves on having a clean, safe and welcoming environment for our guests, however, we have enhanced our already vigorous cleaning regime within the Bed & Breakfast as follows:
+
+1. All door handles/knobs, countertops, chairs, light switches, and furniture will be cleaned, disinfected twice a day in public areas.
+1. Guest bedrooms and bathrooms will be deep cleaned after each guest stay.
+1. Please remove your shoes when entering into our B&B - we do provide booties for you to use.
+1. Client Responsibilily
+
+We rely on you, our clients, to share the responsibility for the health and wellbeing of our other guests and my wife & I. If you are sick or are showing symptoms of illness please cancel your stay and rebook when you are healthy.
+
+Give me a call if this is confusing and I can go through it with you.
+<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
 
 **The Important Small Print**
 
@@ -55,7 +69,7 @@ All older children or adults are charged CAD 10 per person per night when using 
 * The maximum number of children’s cots/cribs in a room is 1.
 * There is no capacity for extra beds in the room.
 
-Thank you for adhering to our policies. We have a commitment to our guests to expect very high standards in a well kept and safe environment. We look forward to hosting you and making you feel at home in a relaxed atmosphere. Once you have browsed through our pages to make a reservation.
+Thank you for adhering to our policies. We have a commitment to our guests to expect very high standards in a well kept and safe environment. We look forward to hosting you and making you feel at home in a relaxed atmosphere. Once you have browsed through our pages please contact us to make a reservation.
 
 <i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
 

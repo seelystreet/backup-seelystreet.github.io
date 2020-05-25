@@ -27,7 +27,7 @@ title = "Seely Street Bed and Breakfast"
     weight = 5
 [[menu.main]]
     name = "T&C's"
-    url = "/hello/"
+    url = "/conditions/"
     weight = 6
 
 [params]

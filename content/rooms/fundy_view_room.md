@@ -18,7 +18,7 @@ We just love this room and this is our most popular room with our repeat visitor
 
 ![Fundy View Room](/img/fundy3.jpg)**Fundy View Room**
 
-Room Rate – $130.00 plus tax at 15%  
+Room Rate – $130.00 plus tax at 15% plus 3.5% Municipal Accommodation Levy.  
 For Reservations or to Check Availability  
  <i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
  
