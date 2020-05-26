@@ -11,7 +11,7 @@ Tucked away at the rear of our house is our Private Suite with bedroom with Quee
 * Netflix
 * Radio Alarm
 * Shower Cubicle
-* Double Bed
+* Queen bed
 * Wifi & Cat 6 Internet Access
 
 ![The Seely Suite](/img/seely.jpg)**The Seely Suite**

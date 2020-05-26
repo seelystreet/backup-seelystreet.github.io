@@ -2,16 +2,14 @@
 title: Terms and Conditions
 ---
 
-**Covid-19 & Hygene**
+**Covid-19 & Hygiene**
 
 We pride ourselves on having a clean, safe and welcoming environment for our guests, however, we have enhanced our already vigorous cleaning regime within the Bed & Breakfast as follows:
 
 1. All door handles/knobs, countertops, chairs, light switches, and furniture will be cleaned, disinfected twice a day in public areas.
 1. Guest bedrooms and bathrooms will be deep cleaned after each guest stay.
 1. Please remove your shoes when entering into our B&B - we do provide booties for you to use.
-1. Client Responsibilily
-
-We rely on you, our clients, to share the responsibility for the health and wellbeing of our other guests and my wife & I. If you are sick or are showing symptoms of illness please cancel your stay and rebook when you are healthy.
+1. Client Responsibilily We rely on you, our clients, to share the responsibility for the health and wellbeing of our other guests and my wife & I. If you are sick or are showing symptoms of illness please cancel your stay and rebook when you are healthy.
 
 Give me a call if this is confusing and I can go through it with you.
 <i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
@@ -55,10 +53,6 @@ We regret we are unable to accommodate Pets
 
 * Check-in is from 3.00pm through until 10.00pm after which there is a &#36;25.00 fee for late check-in.
 * Check-Out is by 11.00am promptly unless by special arrangement.
-
-**Children and Extra Bed Policy**
-
-This policy defines the possibility of accommodating children and the availability of extra beds. If you do not want to offer extra beds at all, please use the bed type “no extra beds available”.
 
 **All children are welcome.**
 

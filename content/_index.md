@@ -2,8 +2,6 @@
 title: Welcome
 ---
 
-![our house](/img/welcome.320x427.jpg)
-
 #### Welcome to our Bed & Breakfast in the wonderful city of Saint John. ####
 
 ![our house](/img/house.jpg)**We are delighted that our home has been selected for inclusion in the Canadian Register of Historic Places**

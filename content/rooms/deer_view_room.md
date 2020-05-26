@@ -10,7 +10,7 @@ Many times we have watched the deer in our rear gardens from this room as they w
 
 * Netflix
 * Radio Alarm
-* Double Queen Bed
+* Queen Bed
 * Private 4 piece Bathroom across the hall
 
 ![The Deer View Room](/img/deer2.jpg)**The Deer View Room**

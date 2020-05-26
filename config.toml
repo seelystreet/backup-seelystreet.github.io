@@ -34,3 +34,8 @@ title = "Seely Street Bed and Breakfast"
     description = "Seely Street Bed and Breakfast"
     footer = "&copy; [Seely Street Bed & Breakfast](https://seelystreet.com) 2020"
 
+[markup]
+defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -32,7 +32,7 @@ We recycle:
 We love to know how you enjoyed your stay with us so please sign and write in our Guestbook located in the Dining Room. Your comments are important to us and help us improve our service to you, our guests.
 
 **Tour Guide Services**  
-Make the most of your time in Saint John with a tour of Canada's most Irish city. We can offer a gentle paced Walking Tour of Uptown Saint John taking in all the major attractions including the City Market, King Square and Loyalist Burial Ground.  If you have a rental car we can offer a City Tour of a minimum of 2 hours taking in the Reverisng River Falls, Rockwood Park, Fort Howe and maybe one of two favourite places of mine. Stops will be made along the way for photo opportunities. Please see our Day Excursions page for details of prices.
+Make the most of your time in Saint John with a tour of Canada's most Irish city. We can offer a gentle paced Walking Tour of Uptown Saint John taking in all the major attractions including the City Market, King Square and Loyalist Burial Ground.  If you have a rental car we can offer a City Tour of a minimum of 2 hours taking in the Reverisng River Falls, Rockwood Park, Fort Howe and maybe one of two favourite places of mine. Stops will be made along the way for photo opportunities. Please inquire for prices
 
 **Attractions close to our B&B**  
 
