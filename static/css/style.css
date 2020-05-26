@@ -35,7 +35,7 @@ body {
   color: black;
 }
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
 }
 .topnav .icon {
