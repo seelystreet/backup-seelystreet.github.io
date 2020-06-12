@@ -22,13 +22,17 @@ title = "Seely Street Bed and Breakfast"
     url = "/facilities/"
     weight = 4
 [[menu.main]]
+    name = "MTB/Hiking"
+    url = "/biking/"
+    weight = 5
+[[menu.main]]
     name = "History"
     url = "/history/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "T&C's"
     url = "/conditions/"
-    weight = 6
+    weight = 7
 
 [params]
     description = "Seely Street Bed and Breakfast"
