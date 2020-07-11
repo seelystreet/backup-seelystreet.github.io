@@ -29,7 +29,8 @@ Our B&B is in a wonderful location just 200 metres from Saint John Public Garden
 We hope you enjoy our website and look forward to welcoming you in the near future.
 
 For Reservations or to check availability :-  
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553  
+<i data-feather="phone"></i> (506) 721 1553  
+For Online Reservations click [Here](https://m.bbcanada.com/10812.html)  
 <i data-feather="mail"></i> <garth@seelystreet.com>
 
 Please also check out our other Websites - [Fundy Sports Toursim](http://fundysportstourism.com)

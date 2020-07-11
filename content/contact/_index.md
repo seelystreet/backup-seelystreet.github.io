@@ -9,8 +9,8 @@ New Brunswick
 Canada  
 E2K 4B2
 
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
-
+<i data-feather="phone"></i> (506) 721 1553  
+For Online Reservations click [Here](https://m.bbcanada.com/10812.html)  
 <i data-feather="mail"></i> <garth@seelystreet.com>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22457.130140948484!2d-66.057366!3d45.285367!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca7b36dcf000117%3A0x8e352ce9746ec4f!2sSeely%20St%2C%20Saint%20John%2C%20NB%2C%20Canada!5e0!3m2!1sen!2ses!4v1575299464789!5m2!1sen!2ses" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -27,6 +27,6 @@ Follow the road round to the left to the Traffic Lights and turn left onto Crown
 Go up the hill, where you will cross above the Highway and turn left into Seely Street at the Traffic Lights.  
 We are the 4th house on the right hand side, look out for our B&B sign.  
 
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+<i data-feather="phone"></i> (506) 721 1553
 
 <i data-feather="mail"></i> <garth@seelystreet.com>

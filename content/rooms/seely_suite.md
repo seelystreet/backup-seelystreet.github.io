@@ -22,7 +22,7 @@ Room Rate – $120.00 plus tax at 15% plus 3.5% Municipal Accommodation Levy. ba
 $10.00 supplement per extra adult or child.
 
 For Reservations or to Check Availability  
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+<i data-feather="phone"></i> (506) 721 1553
  
 <i data-feather="mail"></i> <garth@seelystreet.com>
  

@@ -12,7 +12,7 @@ We pride ourselves on having a clean, safe and welcoming environment for our gue
 1. Client Responsibilily We rely on you, our clients, to share the responsibility for the health and wellbeing of our other guests and my wife & I. If you are sick or are showing symptoms of illness please cancel your stay and rebook when you are healthy.
 
 Give me a call if this is confusing and I can go through it with you.
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+<i data-feather="phone"></i> (506) 721 1553
 
 **The Important Small Print**
 
@@ -32,7 +32,7 @@ Give me a call if this is confusing and I can go through it with you.
 * A 50% deposit is required for Multiple Room Reservations.
 
 **For reservations**  
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+<i data-feather="phone"></i>  (506) 721 1553
 
 <i data-feather="mail"></i> <garth@seelystreet.com> 
 
@@ -65,6 +65,6 @@ All older children or adults are charged CAD 10 per person per night when using 
 
 Thank you for adhering to our policies. We have a commitment to our guests to expect very high standards in a well kept and safe environment. We look forward to hosting you and making you feel at home in a relaxed atmosphere. Once you have browsed through our pages please contact us to make a reservation.
 
-<i data-feather="phone"></i> (506) 214 1085 / (506) 721 1553
+<i data-feather="phone"></i> (506) 721 1553
 
 <i data-feather="mail"></i> <garth@seelystreet.com> 

@@ -29,4 +29,4 @@ As athletes ourselves we appreciate how important it is to stay somewhere who un
 Garth Millar
 Fundy Sports & Tourism  
 [fundysportstourism.com](https://fundysportstourism.com)  
-Tel - (506) 214 1085
+Tel - 506 721 1553
