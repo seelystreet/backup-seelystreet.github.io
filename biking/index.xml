@@ -5,10 +5,6 @@
     <link>/biking/</link>
     <description>Recent content in Mountain Biking and Hiking on Seely Street Bed and Breakfast</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/biking/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/biking/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
