@@ -10,7 +10,7 @@ title: Welcome
 
 **For Online Reservations click [Here](https://m.bbcanada.com/10812.html)**
 
-2021 is our 13th year of operating our Bed & Breakfast and we have enjoyed hosting families and couples from as far away as Australia, Argentina and Europe and we are excited and looking forward to welcoming you to our home in Saint John.
+2022 is our 14th year of operating our Bed & Breakfast and we have enjoyed hosting families and couples from as far away as Australia, Argentina and Europe and we are excited and looking forward to welcoming you to our home in Saint John.
 
 We are located a very short walk from the spectacular 2200 acre Rockwood Park and the beautiful Lily Lake which now boasts Lilys Cafe a restaurant overlooking the lake serving great food and drinks. Lily Lake has just had solar powered lighting installed making for a very pleasant stroll during the evening at dusk.
 
