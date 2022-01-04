@@ -43,4 +43,10 @@ defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[build]
+  command = "hugo"
+    publish = "public"
+
+    [build.environment]
+      HUGO_VERSION = "0.89.4"
 
