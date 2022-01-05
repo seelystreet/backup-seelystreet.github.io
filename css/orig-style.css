@@ -1,0 +1,134 @@
+/* css reset */
+/*
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+*/
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+  border: 1px;
+  border-radius: 10px;
+  border-style: solid;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333; /*eee*/
+  border-radius: 10px;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.topnav .icon {
+  display: none;
+  background-color: darkgrey;
+}
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+/* header and footer areas */
+footer {
+text-align: center;
+}
+
+.title {
+font-size: 1em;
+}
+footer a {
+text-decoration: none;
+}
+
+hr {
+  border-style: dashed;
+  color: #ddd;
+}
+
+/* Settings for tables */
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td {
+padding: 5px;
+}
+thead, tfoot, tr:nth-child(even) {
+background: #eee;
+}
+
+/* Center headings */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  }
+
+/* links */
+a, a:visited {
+    color: green;text-decoration: none;
+    }
+
+a:hover {
+    color: hotpink;
+    }
+
+/* Image Display */
+
+img + em { display: block; text-align: center;}
+img + strong { display: block; text-align: center;}
+
+img { max-width:98%; /* max-width:128%; */
+    padding: 1%;
+    height: auto;
+    border: thin black solid;
+    text-align: center;
+    background:lightgrey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Feather Icon Settings */
+.feather {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
